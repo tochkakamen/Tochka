@@ -1,4 +1,4 @@
-# 🤖 Telegram Бот-Переводчик
+## 🤖 Telegram Бот-Переводчик
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://telegram.org)
