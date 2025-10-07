@@ -1,0 +1,24 @@
+
+## Инструкция по запуску на GitHub:
+
+1. **Создайте новый репозиторий** на GitHub
+
+2. **Загрузите все файлы** в репозиторий
+
+3. **Добавьте токен бота в Secrets**:
+   - Зайдите в настройки репозитория (Settings)
+   - Перейдите в Secrets → Actions
+   - Нажмите "New repository secret"
+   - Имя: `BOT_TOKEN`
+   - Значение: `8234479665:AAEdiCnb4T4Hn-DQONaubLQr2u-EBn2WLYg`
+
+4. **Запустите workflow**:
+   - Перейдите в Actions
+   - Выберите "Deploy Telegram Bot"
+   - Нажмите "Run workflow"
+
+## Для локального тестирования:
+
+1. Установите зависимости:
+```bash
+pip install -r requirements.txt
